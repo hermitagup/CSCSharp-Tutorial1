@@ -21,11 +21,15 @@ dsfsdfdsfdfsdf
 |1. wpis |
 |2. wpis |
 |3. wpis |
-|4. wips |
-|5. wwww |
+|4. wpis |
+|5. wpis |
 
 1st entry
 
 
 # nowy wpis
 huehue 
+
+# dodane przez karol @ 20:56
+
+# nowy commin o 21:02
